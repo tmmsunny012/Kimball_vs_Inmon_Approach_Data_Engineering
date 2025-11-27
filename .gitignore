@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated Data
+data/*
+!data/.gitkeep
+*.csv
+
+# SQLite Databases
+*.db
+
+# Virtual Environment
+.venv/
